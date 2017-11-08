@@ -1,0 +1,32 @@
+{
+  "name": "excel",
+  "version": "0.1.0",
+  "description": "create xlsx",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deptno/excel.js.git"
+  },
+  "keywords": [
+    "excel.js",
+    "excel",
+    "xlsx",
+    "node-excel",
+    "node-xlsx"
+  ],
+  "author": "bglee <deptno@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deptno/excel.js/issues"
+  },
+  "homepage": "https://github.com/deptno/excel.js#readme",
+  "dependencies": {
+    "excel4node": "^1.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.50"
+  }
+}
